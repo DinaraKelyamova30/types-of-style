@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+}
+
+.right{
+    font-size: 10px;
+    text-align: right;
+    background-color: white;
+}
